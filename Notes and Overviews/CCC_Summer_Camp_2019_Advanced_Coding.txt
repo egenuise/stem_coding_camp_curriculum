@@ -1,0 +1,65 @@
+Curriculum for CCC Advanced Coding 
+2 Weeks: 190610-190614, 190617-190621
+0800-1200 and duplicate 1300-1700 sessions
+
+NASA Space Theme
+	Labcoats
+	"ID Cards" -> business cards, print names with Label Maker?
+	Make IR Scanner for scanning IDs
+	Teams -> Planet names, have them choose
+	3D-Printed awards
+	Laser pointers
+	
+Curriculum:
+	Main Objectives:
+		Pi setup
+		Intro to programming
+		IDLE on Pi, coding environment
+		GPIO Output -> blink an LED
+		Morse Code with Python?
+		Intro to API
+		Explain what URL Means
+		Building and hosting a LAN webserver
+		Building and hosting a LAN minecraft server
+		API -> ISS Tracker
+		       Reverse Geocode
+		       Twitter?
+		
+Day 1: Blink an LED with a button, no child left behind,
+       just say go, then say ask any questions
+	Start with addressing the goal
+	What is raspberry pi?
+	What is Linux?
+	What is a command terminal? (Basic commands)
+	What is Python? (Download python)
+	Accessing Python through the terminal
+	What is a breadboard?
+	What is an LED?
+	How to set up GPIO
+	Syntax tools for blinking an LED -> Documentation References
+	Let them loose on figuring it out themselves
+		Have a pool of functions with skeleton code for them to fill in the blanks
+	Ask at the end what they want to learn tomorrow
+
+Supplementary Time Pool:
+	Drone kits -> proprietary and build yourself
+	Rocket kits -> paper stomp rockets
+	3D Printing -> TinkerCAD
+	Kahoot -> As a review of lectured material
+	Kahoot -> As a fun break time
+
+Structure:
+	State the goal
+	Do the lecture
+	Lecture kahoot
+	Start the project
+	Debrief the results
+
+Weekly Schedule Skeleton:
+	Introduction to Python stuff
+	GPIO stuff
+	Morse Code project
+	API Day stuff: ISS, Reverse_Geocode
+	Web server stuff/Minecraft Server stuff
+
+

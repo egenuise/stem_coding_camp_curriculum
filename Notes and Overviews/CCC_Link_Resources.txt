@@ -1,0 +1,11 @@
+Minecraft Server
+	Setup: https://www.linuxnorth.org/minecraft/
+	
+API
+	ISS: http://open-notify.org/
+	Reverse Geocode: https://developer.here.com/api-explorer/rest/geocoder/reverse-geocode
+
+Web Server
+	Apache: https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md
+	HTML: https://www.w3schools.com/html/default.asp
+	TCP/UDP Reference: https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
